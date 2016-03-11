@@ -1,0 +1,9 @@
+E:\U\Programacion II\Programas\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+E:\U\Programacion II\Programas\Tarea3\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\Tarea3\Tarea3\obj\Debug\Tarea3.Form1.resources
+E:\U\Programacion II\Programas\Tarea3\Tarea3\obj\Debug\Tarea3.Properties.Resources.resources
+E:\U\Programacion II\Programas\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.GenerateResource.Cache
+E:\U\Programacion II\Programas\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+E:\U\Programacion II\Programas\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+E:\U\Programacion II\Programas\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+E:\U\Programacion II\Programas\Tarea3\Tarea3\obj\Debug\Tarea3.pdb

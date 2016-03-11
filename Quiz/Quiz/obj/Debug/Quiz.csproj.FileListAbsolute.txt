@@ -1,0 +1,6 @@
+C:\Users\Programacion\Desktop\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Programacion\Desktop\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Programacion\Desktop\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Programacion\Desktop\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Programacion\Desktop\Quiz\Quiz\obj\Debug\Quiz.pdb

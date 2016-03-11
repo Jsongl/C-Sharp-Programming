@@ -1,0 +1,6 @@
+C:\Users\Programacion\Desktop\Practica_Sem7\Practica_Sem7\bin\Debug\Practica_Sem7.exe.config
+C:\Users\Programacion\Desktop\Practica_Sem7\Practica_Sem7\obj\Debug\Practica_Sem7.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Practica_Sem7\Practica_Sem7\bin\Debug\Practica_Sem7.exe
+C:\Users\Programacion\Desktop\Practica_Sem7\Practica_Sem7\bin\Debug\Practica_Sem7.pdb
+C:\Users\Programacion\Desktop\Practica_Sem7\Practica_Sem7\obj\Debug\Practica_Sem7.exe
+C:\Users\Programacion\Desktop\Practica_Sem7\Practica_Sem7\obj\Debug\Practica_Sem7.pdb

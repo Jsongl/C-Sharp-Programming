@@ -1,0 +1,14 @@
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\bin\Debug\Frameless_rotation.exe.config
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\bin\Debug\Frameless_rotation.exe
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\bin\Debug\Frameless_rotation.pdb
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.Form1.resources
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.Properties.Resources.resources
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.csproj.GenerateResource.Cache
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.exe
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.pdb
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.Form2.resources
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.Form3.resources
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.Form4.resources
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.Form5.resources
+E:\U\Programacion II\Programas\Pruebas\Frameless_rotation\Frameless_rotation\obj\Debug\Frameless_rotation.Form6.resources

@@ -1,0 +1,10 @@
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\bin\Debug\Proyecto_GrupoB.exe.config
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\bin\Debug\Proyecto_GrupoB.exe
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\bin\Debug\Proyecto_GrupoB.pdb
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.Agregar_articulo.resources
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.Form_principal.resources
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.Properties.Resources.resources
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.csproj.GenerateResource.Cache
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.exe
+E:\U\Programacion II\Programas\Proyecto_GrupoB\Proyecto_GrupoB\obj\Debug\Proyecto_GrupoB.pdb

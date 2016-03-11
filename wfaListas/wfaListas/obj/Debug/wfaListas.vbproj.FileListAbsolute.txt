@@ -1,0 +1,14 @@
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\bin\Debug\wfaListas.exe.config
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\bin\Debug\wfaListas.exe
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\bin\Debug\wfaListas.pdb
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\bin\Debug\wfaListas.xml
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\obj\Debug\wfaListas.Form1.resources
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\obj\Debug\wfaListas.Resources.resources
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\obj\Debug\wfaListas.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\obj\Debug\wfaListas.exe
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\obj\Debug\wfaListas.xml
+C:\Users\Programacion\Desktop\wfaListas\wfaListas\obj\Debug\wfaListas.pdb
+F:\Programacion II\wfaListas\wfaListas\bin\Debug\wfaListas.exe.config
+F:\Programacion II\wfaListas\wfaListas\obj\Debug\wfaListas.exe
+F:\Programacion II\wfaListas\wfaListas\obj\Debug\wfaListas.xml
+F:\Programacion II\wfaListas\wfaListas\obj\Debug\wfaListas.pdb

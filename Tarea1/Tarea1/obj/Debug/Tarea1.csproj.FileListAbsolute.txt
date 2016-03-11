@@ -1,0 +1,5 @@
+E:\U\Programacion II\Programas\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+E:\U\Programacion II\Programas\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+E:\U\Programacion II\Programas\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+E:\U\Programacion II\Programas\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+E:\U\Programacion II\Programas\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

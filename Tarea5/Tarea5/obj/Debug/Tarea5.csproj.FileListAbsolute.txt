@@ -1,0 +1,12 @@
+E:\U\Programacion II\Programas\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.Form1.resources
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.Form2.resources
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.Properties.Resources.resources
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.GenerateResource.Cache
+E:\U\Programacion II\Programas\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+E:\U\Programacion II\Programas\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.pdb
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.Form3.resources
+E:\U\Programacion II\Programas\Tarea5\Tarea5\obj\Debug\Tarea5.Form4.resources

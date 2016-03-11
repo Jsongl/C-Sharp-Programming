@@ -1,0 +1,11 @@
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\bin\Debug\ExamenPractica3.exe.config
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\bin\Debug\ExamenPractica3.exe
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\bin\Debug\ExamenPractica3.pdb
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.Form1.resources
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.Properties.Resources.resources
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.csproj.GenerateResource.Cache
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.exe
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.pdb
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.Form2.resources
+E:\U\Programacion II\Programas\ExamenPractica3\ExamenPractica3\obj\Debug\ExamenPractica3.Form3.resources

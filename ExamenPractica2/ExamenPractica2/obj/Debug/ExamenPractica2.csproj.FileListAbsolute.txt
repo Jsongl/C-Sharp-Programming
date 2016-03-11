@@ -1,0 +1,6 @@
+E:\U\Programacion II\Programas\ExamenPractica2\ExamenPractica2\bin\Debug\ExamenPractica2.exe.config
+E:\U\Programacion II\Programas\ExamenPractica2\ExamenPractica2\obj\Debug\ExamenPractica2.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\ExamenPractica2\ExamenPractica2\bin\Debug\ExamenPractica2.exe
+E:\U\Programacion II\Programas\ExamenPractica2\ExamenPractica2\bin\Debug\ExamenPractica2.pdb
+E:\U\Programacion II\Programas\ExamenPractica2\ExamenPractica2\obj\Debug\ExamenPractica2.exe
+E:\U\Programacion II\Programas\ExamenPractica2\ExamenPractica2\obj\Debug\ExamenPractica2.pdb

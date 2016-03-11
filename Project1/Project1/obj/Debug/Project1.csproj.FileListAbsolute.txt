@@ -1,0 +1,14 @@
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.Form3.resources
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Programacion\Desktop\Proj\Project1\Project1\obj\Debug\Project1.pdb
+E:\U\Programacion II\Programas\Project1\Project1\bin\Debug\Project1.exe.config
+E:\U\Programacion II\Programas\Project1\Project1\obj\Debug\Project1.exe
+E:\U\Programacion II\Programas\Project1\Project1\obj\Debug\Project1.pdb

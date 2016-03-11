@@ -1,0 +1,6 @@
+E:\U\Programacion II\Programas\AreaPerimetro\AreaPerimetro\bin\Debug\AreaPerimetro.exe.config
+E:\U\Programacion II\Programas\AreaPerimetro\AreaPerimetro\bin\Debug\AreaPerimetro.exe
+E:\U\Programacion II\Programas\AreaPerimetro\AreaPerimetro\bin\Debug\AreaPerimetro.pdb
+E:\U\Programacion II\Programas\AreaPerimetro\AreaPerimetro\obj\Debug\AreaPerimetro.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\AreaPerimetro\AreaPerimetro\obj\Debug\AreaPerimetro.exe
+E:\U\Programacion II\Programas\AreaPerimetro\AreaPerimetro\obj\Debug\AreaPerimetro.pdb

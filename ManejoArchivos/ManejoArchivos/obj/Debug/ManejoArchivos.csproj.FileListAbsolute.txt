@@ -1,0 +1,12 @@
+C:\Users\Programacion\Desktop\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe.config
+C:\Users\Programacion\Desktop\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe
+C:\Users\Programacion\Desktop\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.pdb
+C:\Users\Programacion\Desktop\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.exe
+C:\Users\Programacion\Desktop\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.pdb
+E:\U\Programacion II\Programas\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe.config
+E:\U\Programacion II\Programas\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.exe
+E:\U\Programacion II\Programas\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.pdb
+E:\U\Programacion II\Programas\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe
+E:\U\Programacion II\Programas\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.pdb
