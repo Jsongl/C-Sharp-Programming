@@ -1,0 +1,10 @@
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\bin\Debug\CCM_Cine.exe.config
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\obj\Debug\CCM_Cine.csprojResolveAssemblyReference.cache
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\obj\Debug\CCM_Cine.Form_Peliculas.resources
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\obj\Debug\CCM_Cine.Principal.resources
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\obj\Debug\CCM_Cine.Properties.Resources.resources
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\obj\Debug\CCM_Cine.csproj.GenerateResource.Cache
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\bin\Debug\CCM_Cine.exe
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\bin\Debug\CCM_Cine.pdb
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\obj\Debug\CCM_Cine.exe
+E:\U\Programacion II\Programas\CCM_Cine\CCM_Cine\obj\Debug\CCM_Cine.pdb
